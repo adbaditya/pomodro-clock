@@ -1,0 +1,53 @@
+
+
+.text {
+	font-family:Segoe UI;
+	position: fixed;
+	top:67%;
+	left: 40.5%;
+	color: #585858;
+	font-size:22px;
+}
+.header {
+	font-family: Segoe UI, Monospace;
+	text-align: center;
+	color: white;
+	font-size:30;
+	
+}
+
+.butt {
+	font-family: Monospace;
+	width:88px;
+	height:30px;
+	border:3px solid black;
+	position: fixed;
+	top: 55%;
+	color:white;
+	background-color:	#989898;
+	border-radius: 5px;
+}
+.small 
+{
+	border-radius: 5px;
+	top:67%; 
+	position: fixed;
+	border: 3px solid black;
+	font-family:Monospace;
+	width:40px;
+	height:40px;
+	font-size: 12px;
+	color:white;
+	background-color:	#989898;
+}
+.x {
+	color:white;
+	font-size:60px;
+	position:fixed;
+	top: 30%;
+	z-index:+2;
+}
+.class 
+{
+	position: fixed;
+}
